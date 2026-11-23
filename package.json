@@ -1,0 +1,12 @@
+{
+  "name": "u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
